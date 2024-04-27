@@ -1,0 +1,13 @@
+/*
+    Don't add anything in here! 
+    if anything is messed up remove all css but @tailwind
+*/
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.stroke-only-text {
+    -webkit-text-stroke: 2px #A3A29C;
+    /* Adjust the color and width of the stroke as needed */
+    color: transparent;
+}
